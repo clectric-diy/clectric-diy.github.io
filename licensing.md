@@ -4,7 +4,7 @@ Understanding, developing, and enforcing licenses, especially open licenses, is 
 I have shared the various licenses that we use here, some of the projects that they apply to, and the rationale behind my choice. If you have any questions, comments, or concerns about my choice on any of these, please [contact me ASAP](mailto:licensing@clectric.diy).
 # Licenses Used
 
-## CERN Open Hardware Licence
+## CERN Open Hardware Licences
 > CERN has developed this licence to promote collaboration among hardware designers and to provide a legal tool which supports the freedom to use, study, modify, share and distribute hardware designs and products based on those designs.
 
 These quotes and further information is available on the [CERN OHL website](https://gitlab.com/ohwr/project/cernohl/-/wikis/Documents/CERN-OHL-version-2).
