@@ -21,7 +21,7 @@ The intention is for these projects to be modified and/or used as components, un
 
 At the time of this writing, this license applies to our [Protoboards](https://github.com/clectric-diy/Protoboards-AE).
 ## Creative Commons Attribution-ShareAlike (CC BY-SA)
-Open hardware isn't very valuable if you don't have the accompanying documentation. We use the CC BY-SA license on our website, wiki, forums, etc. so that it is openly shared, under the terms of the license, for any use.
+Open hardware isn't very valuable if you don't have the accompanying documentation. We use the CC BY-SA license on our [website](https://github.com/clectric-diy/clectric-diy.github.io), [wiki](https://github.com/clectric-diy/clectric-diy.github.io/wiki), [forums](https://github.com/orgs/clectric-diy/discussions), etc. so that the content is openly shared, under the terms of the license, for any use.
 
 More information about this license can be found on [the Creative Commons website](https://creativecommons.org/licenses/by-sa/4.0/)
 ## The MIT License
