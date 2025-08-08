@@ -2,4 +2,4 @@
 
 Members of [our SynthDIY community](https://github.com/orgs/clectric-diy/discussions) are building personalized versions open source modules for the [AE Modular format](AE-Modular.md). Including the [Spark](https://github.com/clectric-diy/Spark-AE), an Electrosmith Daisy Seed based module, and the associated [Flux](https://github.com/clectric-diy/FLUX) firmware.
 
-Join us in our [discussion forum](https://github.com/orgs/clectric-diy/discussions) to learn more.
+Please review our information about [licensing](licensing.md) and join us in our [discussion forum](https://github.com/orgs/clectric-diy/discussions) to learn more.

@@ -4,4 +4,4 @@ According to AE Modular's [Kickstarter Campaign](https://www.kickstarter.com/pro
 
 For our purposes, the best introduction to the standard is the [AE Modular Technical Guide](https://wiki.aemodular.com/#/diy/aemodular-technical-guide). Don't worry if you don't understand what you see on that page. We're all working together here to learn new skills and to develop hardware and software for this amazing platform.
 
-Join us in our [discussion forum](https://github.com/orgs/clectric-diy/discussions).
+Please review our information about [licensing](licensing.md) and join us in our [discussion forum](https://github.com/orgs/clectric-diy/discussions) to learn more.
