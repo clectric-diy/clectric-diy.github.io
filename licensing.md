@@ -11,15 +11,15 @@ These quotes and further information is available on the [CERN OHL website](http
 ### CERN Open Hardware Licence - Strongly Reciprocal (CERN-OHL-S)
 > CERN-OHL-S is a strongly reciprocal licence. For example, if you release HDL files under CERN-OHL-S and then somebody uses those files in their FPGA, when they distribute the bitstream (either putting it online or shipping a product with it) they need to make the rest of the HDL design available under CERN-OHL-S as well.
 
-The intention is for these projects to be fully collaborative. clectric has openly shared an original work with the world. We invite anyone to modify this design or incorporate it into other designs provided that they openly share their work under the same license.
-
 At the time of this writing, this license applies to our [Spark](https://github.com/clectric-diy/Spark-AE) and [APC](https://github.com/clectric-diy/APC-AE) projects.
+
+The intention is for projects using this license to be fully collaborative. clectric has openly shared an original work with the world. We invite anyone to modify this design or incorporate it into other designs provided that they openly share their work under the same license.
 ### CERN Open Hardware Licence - Weakly Reciprocal (CERN-OHL-W)
 > CERN-OHL-W is a weakly reciprocal licence. For the example above, if you release your part of the design under CERN-OHL-W, somebody who distributes a bitstream which includes your part does not need to distribute the rest of the design files as well.
 
-The intention is for these projects to be modified and/or used as components, under the terms of this license, in the works of others. clectric has openly shared an original work with the world. We invite anyone to use this design, without modification, into their own work with attribution.
-
 At the time of this writing, this license applies to our [Protoboards](https://github.com/clectric-diy/Protoboards-AE).
+
+The intention is for projects using this license to be modified and/or used as components, under the terms of this license, in the works of others. clectric has openly shared an original work with the world. We invite anyone to use this design, without modification, into their own work with attribution.
 ## Creative Commons Attribution-ShareAlike (CC BY-SA)
 Open hardware isn't very valuable if you don't have the accompanying documentation. We use the CC BY-SA license on our [website](https://github.com/clectric-diy/clectric-diy.github.io), [wiki](https://github.com/clectric-diy/clectric-diy.github.io/wiki), [forums](https://github.com/orgs/clectric-diy/discussions), etc. so that the content is openly shared, under the terms of the license, for any use.
 
