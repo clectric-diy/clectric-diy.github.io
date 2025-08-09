@@ -35,7 +35,7 @@ I have heard this type of setup referred to as a "Battlestation". I am not a mus
 #### Desk
 I admit that I cleaned up my desk and staged this next photo. I included [Ryder Carroll](https://bulletjournal.com/pages/rydercarroll?srsltid=AfmBOopI8ELUZBVgdGMqOar7f3e8x-XUOpblkBaptPDYe9-ueFj_E_ew)'s book [The Bullet Journal Method](https://bulletjournal.com/pages/book) as a thank you to him and the [BuJo U](https://community.bulletjournal.com) community for (maybe literally) saving my life.
 
-My EDC journal is on the right and my tinkering or design or engineering or whatever journal is on the left.
+My ride or die EDC journal is on the right and my tinkering or design or engineering or whatever journal is on the left.
 
 ![](chlDesk.png)
 ## Other
