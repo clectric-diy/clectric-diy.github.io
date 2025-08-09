@@ -10,15 +10,16 @@ Thus, clectric is born.
 ### Digital
 Here's an in-exhaustive list of the digital tools that I use:
 
-| **purpose**                   | **tool**                     | **have used** |
-| ----------------------------- | ---------------------------- | ------------- |
-| text editing                  | Vim. Flame on!               | nvim          |
-| launcher, snippets, clipboard | Raycast                      | Alfred        |
-| IDE                           | VSCode                       |               |
-| note taking                   | dead trees and Obsidian      | ReMarkable    |
-| window manager                | Raycast                      |               |
-| PDF eReader                   | ReMarkable                   |               |
-| eReader                       | Audible (this counts, right) |               |
+| **purpose**                   | **tool**                                  | **have used**          |
+| ----------------------------- | ----------------------------------------- | ---------------------- |
+| text editing                  | Vim. Flame on!                            | nvim                   |
+| launcher, snippets, clipboard | Raycast                                   | Alfred                 |
+| IDE                           | VSCode                                    |                        |
+| note taking                   | dead trees and Obsidian                   | ReMarkable             |
+| window manager                | Raycast                                   | just about all of them |
+| PDF eReader                   | ReMarkable                                |                        |
+| eReader                       | Audible (this counts, right)              |                        |
+| "productivity"                | Sunsama (tasks) and Things (agenda items) | just about all of them |
 
 ### Physical
 I live in Atlanta, GA.
