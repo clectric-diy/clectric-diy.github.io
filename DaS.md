@@ -22,4 +22,4 @@ You do.
 
 ## Are you interested?
 
-Please visit our [Patreon page](https://www.patreon.com/posts/synthdiy-designs-136150974?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link).
+Please visit our [Patreon page](https://www.patreon.com/posts/synthdiy-designs-136150974?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link) or [contact us](mailto:das@clectric.diy).
