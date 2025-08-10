@@ -6,4 +6,4 @@ Whenever possible, we use open source software to ensure that there's a low barr
 
 Please review our information about [licensing](licensing.md) and join us in our [discussion forum](https://github.com/orgs/clectric-diy/discussions) to learn more.
 
-If you're stuck, you may consider [this](DaS).
+If you're stuck, you may consider [this](Resources/DaS.md).
