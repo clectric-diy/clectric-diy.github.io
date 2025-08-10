@@ -1,4 +1,4 @@
-# SynthDIY Designs & Services
+SynthDIY Designs & Services
 
 ## What is it?
 

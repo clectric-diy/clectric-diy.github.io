@@ -3,7 +3,7 @@
 ## Origin Story
 I have had an interest in hobby electronics ever since sitting at my father's workbench as a kid. He passed away when I was in middle school and so, I never really had a chance to learn from him and have never really had a "purpose" to build things. Enter my inspiration ...
 
-I've been into modular synthesis for short while now and have been discouraged by the outrageous cost of [[Eurorack]]. My interest in electronics led to my interest in Synth DIY, but again, I was discouraged by [[Eurorack]] due to the extra challenge of upscaling things like the Arduino Nano to the ±12V standard. However, I purchased a [[Volca Modular]] and through it found the [[AE Modular]] format. Eureka! It's a modular synthesis standard that uses a 0-5V range.
+I've been into modular synthesis for short while now and have been discouraged by the outrageous cost of Eurorack. My interest in electronics led to my interest in Synth DIY, but again, I was discouraged by Eurorack due to the extra challenge of upscaling things like the Arduino Nano to the ±12V standard. However, I purchased a Volca Modular and through it found the [AE-Modular](AE-Modular.md) format. Eureka! It's a modular synthesis standard that uses a 0-5V range.
 
 Thus, clectric is born.
 ## Environment
