@@ -3,5 +3,5 @@ description: "An online makerspace for the SynthDIY community."
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
-show_downloads: true
+show_downloads: false
 google_analytics: G-TJRSWGLQDX
