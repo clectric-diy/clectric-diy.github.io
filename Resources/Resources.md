@@ -10,13 +10,15 @@ NOTE: To support our work, clectric is a registered Amazon Associate, and will e
 - [_Handmade Electronic Music_](https://amzn.to/45DoNks) by [Nicholas Collins](https://www.nicolascollins.com/handmade.htm)
   
 - [_Make: Electronics: Learning by Discovery: A hands-on primer for the new electronics enthusiast_](https://amzn.to/46UGApt) by [Charles Platt](https://www.makershed.com/collections/charles-platt)
+  
+- Other books, articles, and papers collected in our [clectric.diy Zotero Library](https://www.zotero.org/clectric.diy/library)
 
 ## Synths
 - [Stylophone](https://stylophone.com/product/stylophone-genx-2-us/) [GENX-2 Portable Analogue Synthesizer](https://amzn.to/3JhKVt0)
   
 - [Korg](https://www.korg.com/us/products/dj/volca_modular/) [Volca Modular Micro Semi-modular Synthesizer](https://amzn.to/4ouHgbk)
   
-- [AE Modular] format modules and other gear from:
+- [AE Modular](../Formats/AE-Modular) format modules and other gear from:
 	- [Tangible Waves](https://www.tangiblewaves.com),
 	- [Wonkystuff](https://wonkystuff.co.uk),
 	- [BF Synth](https://www.tindie.com/stores/bfsynths/),
