@@ -4,6 +4,8 @@ Members of [our SynthDIY community](https://github.com/orgs/clectric-diy/discuss
 
 Whenever possible, we use open source software to ensure that there's a low barrier to entry for new folks starting up and because it's often the best software available. [KiCad](Tools/KiCad.md) is a good example.
 
-Please review our information about [Licensing](Licensing.md) and join us in our [discussion forum](https://github.com/orgs/clectric-diy/discussions) to learn more.
+We provide a list of [Resources](Resources/Resources.md) that you may find useful.
+
+If you're intrested in joining our community (for free!), please review our [licensing](Licensing.md) information and join us in our [discussion forum](https://github.com/orgs/clectric-diy/discussions) to learn more.
 
 If you're stuck, you may consider [this](Resources/DaS.md).
