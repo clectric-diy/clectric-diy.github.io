@@ -8,6 +8,6 @@ We offer a list of [resources](resources) that you may find useful.
 
 If you're intrested in joining our community (for free!), please review our [licensing](licensing) information and join us in our [discussion forum](https://github.com/orgs/clectric-diy/discussions) to learn more.
 
-If you're stuck, you may consider [this](Resources/DaS.md).
+If you're stuck, you may consider [this](resources/DaS.md).
 
 *clectric.diy is a dba of clectric, LLC. Under safe harbor, as a forward-looking statement, we state that we intend to spin clectric.diy off as a nonprofit once proven viable.*
