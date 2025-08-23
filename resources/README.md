@@ -1,6 +1,6 @@
 Here are resources that we think you may find valuable in your SynthDIY journey.
 
-NOTE: To support our work, clectric is a registered Amazon Associate, and will earn from qualifying purchases on the related links.
+*NOTE: To support our work, clectric.diy registers as an affiliate, where possible and earn from the related links.*
 
 ## Books
 - [_Do Nothing: How To Break Away From Overworking, Overdoing, and Underliving_](https://amzn.to/4oDdPE9) by [Celeste Headlee](https://celesteheadlee.com/about-celeste-headlee/)
