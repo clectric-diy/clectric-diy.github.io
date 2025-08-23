@@ -2,6 +2,9 @@ Here are resources that we think you may find valuable in your SynthDIY journey.
 
 *NOTE: To support our work, clectric.diy registers as an affiliate, where possible and earn from the related links.*
 
+## Documentation
+- Our [DaisyDocs Repo](https://github.com/clectric-diy/DaisyDocs) is a collection of the documentation provided by daisy.audio and augmented by the clectric.diy community.
+
 ## Books
 - [_Do Nothing: How To Break Away From Overworking, Overdoing, and Underliving_](https://amzn.to/4oDdPE9) by [Celeste Headlee](https://celesteheadlee.com/about-celeste-headlee/)
   
