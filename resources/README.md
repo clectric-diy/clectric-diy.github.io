@@ -14,7 +14,7 @@ We offer repos with documentation that has been augmented by the clectric.diy Co
 
 We offer a KiCad Library called [clectric-diy.pretty](https://github.com/clectric-diy/clectric-diy.pretty) with resources from all of our projects.
 
-## Books
+## Book Recommendations
 - [_Do Nothing: How To Break Away From Overworking, Overdoing, and Underliving_](https://amzn.to/4oDdPE9) by [Celeste Headlee](https://celesteheadlee.com/about-celeste-headlee/)
   
 - [_Circuit-Bending: Build Your Own Alien Instruments (ExtremeTech)_](https://amzn.to/41Mgkdk) by [Reed Ghazala](http://www.anti-theory.com/bio/)
