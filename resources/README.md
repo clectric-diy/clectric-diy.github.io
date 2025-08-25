@@ -10,6 +10,10 @@ We offer repos with documentation that has been augmented by the clectric.diy Co
 - [Daisy-Docs Repo](https://github.com/clectric-diy/Daisy-Docs) for daisy.audio.
 - [STM32-Docs Repo](https://github.com/clectric-diy/STM32-Docs) for STMicroelectronics.
 
+## KiCad Library
+
+We offer a KiCad Library called [clectric-diy.pretty](https://github.com/clectric-diy/clectric-diy.pretty) with resources from all of our projects.
+
 ## Books
 - [_Do Nothing: How To Break Away From Overworking, Overdoing, and Underliving_](https://amzn.to/4oDdPE9) by [Celeste Headlee](https://celesteheadlee.com/about-celeste-headlee/)
   
