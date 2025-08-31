@@ -37,6 +37,9 @@ We offer a KiCad Library called [clectric-diy.pretty](https://github.com/clectri
 	- [Kyaa](https://kyaa.co),
 	- and many [others](https://clectric.audio).
 
+## Software
+- [Raycast](https://raycast.com/?via=clectric-diy): launcher, window manager, ai, etc.
+
 ## Test Equipment
 - A USB C microphone and headphone splitter like [this](https://amzn.to/47tUSgY) or [this](https://amzn.to/45AAAzX).
 
