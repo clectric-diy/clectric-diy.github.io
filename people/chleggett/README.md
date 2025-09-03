@@ -3,7 +3,7 @@
 ## Origin Story
 I have had an interest in hobby electronics ever since sitting at my father's workbench as a kid. He passed away when I was in middle school and so, I never really had a chance to learn from him and have never really had a "purpose" to build things. Enter my inspiration ...
 
-I've been into modular synthesis for short while now and have been discouraged by the outrageous cost of Eurorack. My interest in electronics led to my interest in Synth DIY, but again, I was discouraged by Eurorack due to the extra challenge of upscaling things like the Arduino Nano to the ±12V standard. However, I purchased a Volca Modular and through it found the [AE-Modular](AE-Modular.md) format. Eureka! It's a modular synthesis standard that uses a 0-5V range.
+I've been into modular synthesis for short while now and have been discouraged by the outrageous cost of Eurorack. My interest in electronics led to my interest in Synth DIY, but again, I was discouraged by Eurorack due to the extra challenge of upscaling things like the Arduino Nano to the ±12V standard. However, I purchased a Volca Modular and through it found the [AE-Modular](../../formats/ae-modular/) format. Eureka! It's a modular synthesis standard that uses a 0-5V range.
 
 Thus, clectric is born.
 ## Environment
@@ -31,19 +31,19 @@ This is primarily caused by the fact that I have that thing, which probably has 
 
 Here's today's example. I resisted the urge to straighten it up for this photo.
 
-![a picture of a very messy electronics workbench](../Images/chleggettWorkbench.png)
+![a picture of a very messy electronics workbench](../images/chleggettWorkbench.png)
 
 #### "Battlestation"
 I have heard this type of setup referred to as a "Battlestation". I am not a musician in the least bit, so you can pretty much call this a "MIDI Station" for me.
 
-![A table with a computer, two keyboards (computer and piano), a semi-modular synth, and a midi controller.](../Images/chleggettBattlestation.png)
+![A table with a computer, two keyboards (computer and piano), a semi-modular synth, and a midi controller.](../images/chleggettBattlestation.png)
 
 #### Desk
 I admit that I cleaned up my desk and staged this next photo. I included [Ryder Carroll](https://bulletjournal.com/pages/rydercarroll?srsltid=AfmBOopI8ELUZBVgdGMqOar7f3e8x-XUOpblkBaptPDYe9-ueFj_E_ew)'s book [The Bullet Journal Method](https://bulletjournal.com/pages/book) as a thank you to him and the [BuJo U](https://community.bulletjournal.com) community for (maybe literally) saving my life.
 
 My ride or die EDC journal is on the right and my tinkering or design or engineering or whatever journal is on the left.
 
-![A mostly empty desk with two open notebooks.](../Images/chleggettDesk.png)
+![A mostly empty desk with two open notebooks.](../images/chleggettDesk.png)
 
 ## Other
 To avoid this sounding like a dating profile, I have resisted the urge to write about "other interests" here.
