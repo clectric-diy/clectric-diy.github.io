@@ -1,7 +1,0 @@
-Among modular synth formats, AE Modular is a less well known than the nearly ubiquitous Eurorack format. However, there is a close connection. [Robert Langer](https://www.tangiblewaves.com/about.html), the creator of the AE Modular format, and [Dieter Döpfer](https://www.soundonsound.com/people/modular-profile-dieter-doepfer), the "founding father of Eurorack", are longtime friends.
-
-According to AE Modular's [Kickstarter Campaign](https://www.kickstarter.com/projects/562102529/ae-modular-a-modular-synthesizer-for-everyone), Robert's goal was to create "a modular synthesizer for everyone" that is "small in size, small in price, big in sound". There is a very important design decision that makes AE Modular stand out for [our SynthDIY community](https://github.com/orgs/clectric-diy/discussions). The standard works entirely on +5V which makes it directly compatible with the many microcomputers and microcontrollers used in maker communities. Such as: Raspberry Pi, Arduino, and the Daisy Seed.
-
-For our purposes, the best introduction to the standard is the [AE Modular Technical Guide](https://wiki.aemodular.com/#/diy/aemodular-technical-guide). Don't worry if you don't understand what you see on that page. We're all working together here to learn new skills and to develop hardware and software for this amazing platform.
-
-If you're intrested in joining our community (for free!), please review our [licensing](Licensing.md) information and join us in our [discussion forum](https://github.com/orgs/clectric-diy/discussions) to learn more.
