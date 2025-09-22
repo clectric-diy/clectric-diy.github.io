@@ -18,8 +18,10 @@ Here's an in-exhaustive list of the digital tools that I use:
 | note taking                   | dead trees and Obsidian                   | ReMarkable             |
 | window manager                | Raycast                                   | just about all of them |
 | PDF eReader                   | ReMarkable                                |                        |
-| eReader                       | Audible (this counts, right)              |                        |
+| eReader                       | Audible (this counts. right?)             |                        |
 | "productivity"                | Sunsama (tasks) and Things (agenda items) | just about all of them |
+| mechanical keyboards          | ZSA's [Moonlander](https://configure.zsa.io/moonlander/layouts/B96WQ/latest/0) and [Plank EZ](https://configure.zsa.io/planck-ez/layouts/DAbYK/latest/0)             |                        |
+| keyboard layout               | Colemak                                   | QWERTY                 |
 
 ### Physical
 I live in Atlanta, GA.
