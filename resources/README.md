@@ -22,10 +22,21 @@ We offer a KiCad Library called [clectric-diy.pretty](https://github.com/clectri
 - [_Handmade Electronic Music_](https://amzn.to/45DoNks) by [Nicholas Collins](https://www.nicolascollins.com/handmade.htm)
   
 - [_Make: Electronics: Learning by Discovery: A hands-on primer for the new electronics enthusiast_](https://amzn.to/46UGApt) by [Charles Platt](https://www.makershed.com/collections/charles-platt)
+
+- [_Make: Electronic Music from Scratch: A Beginner's Guide to Homegrown Audio Gizmos_](https://amzn.to/4o0VjVs) by [Kirk Pearson](http://kirkpearson.com/about)
   
 - Other books, articles, and papers collected in our [clectric.diy Zotero Library](https://www.zotero.org/clectric.diy/library)
 
+## YouTube Channels
+
+- [Synthux Academy](https://www.youtube.com/synthuxacademy)
+
+- [Flux Bench](https://www.youtube.com/@FluxBench)
+
+- [Predictable Designs](https://www.youtube.com/@PredictableDesigns)
+
 ## Synths
+
 - [Stylophone](https://stylophone.com/product/stylophone-genx-2-us/) [GENX-2 Portable Analogue Synthesizer](https://amzn.to/3JhKVt0)
   
 - [Korg](https://www.korg.com/us/products/dj/volca_modular/) [Volca Modular Micro Semi-modular Synthesizer](https://amzn.to/4ouHgbk)
