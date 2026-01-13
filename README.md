@@ -1,8 +1,8 @@
 **clectric.diy** is a space for experimentation, learning, and sharing—with a growing library of notes, prototypes, & ideas—always in progress. We’re here to help you build the sounds you imagine.
 
-Our first design is a [Daisy Seed Breakout Board](https://clectric.diy/Charge-Seed/). It is a very simple pcb that includes the Daisy Seed's pinout diagram for easy reference. We intend to offer this board standalone, or packaged as a Discovery Kit with 3.5mm jacks, buttons, lights, pots, etc.
+Our first design is a [Daisy Seed Breakout Board](https://clectric.diy/Charge-Seed/). It is a very simple pcb that includes the Daisy Seed's pinout diagram for easy reference.
 
-Also, members of [our SynthDIY community](https://github.com/orgs/clectric-diy/discussions) are designing modules for the [AE Modular format](resources/AE-Modular.md). Including the [Spark](https://clectric.diy/Spark-AE), a Daisy Seed based module, and the associated [FLUX](https://clectric.diy/FLUX) firmware.
+Also, members of [our Synth DIY community](https://github.com/orgs/clectric-diy/discussions) are designing modules for the [AE Modular format](resources/AE-Modular.md). Including the [Spark](https://clectric.diy/Spark-AE), a Daisy Seed based module, and the associated [FLUX](https://clectric.diy/FLUX) firmware.
 
 Whenever possible, we use open source software to ensure that there's a low barrier to entry for new folks starting up and because it's often the best software available. [KiCad](tools/KiCad.md) is a good example.
 
@@ -13,4 +13,3 @@ If you're intrested in joining our community (for free!), please review our [lic
 If you're stuck, you may consider [this](resources/DaS.md).
 
 *clectric.diy is a dba of clectric, LLC. Under safe harbor, as a forward-looking statement, we state that we intend to spin clectric.diy off as a nonprofit once proven viable.*
-
