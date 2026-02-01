@@ -2,7 +2,7 @@
 
 Our first design is a [Daisy Seed Breakout Board](https://clectric.diy/Charge-Seed/). It is a very simple pcb that includes the Daisy Seed's pinout diagram for easy reference.
 
-Also, members of [our Synth DIY community](https://github.com/orgs/clectric-diy/discussions) are designing modules for the [AE Modular format](formats/ae-modular.md). Including the [Spark](https://clectric.diy/Spark-AE), a Daisy Seed based module, and the associated [FLUX](https://clectric.diy/FLUX) firmware.
+Also, members of [our Synth DIY community](https://github.com/orgs/clectric-diy/discussions) are designing modules for the [AE Modular format](formats/ae-modular/). Including the [Spark](https://clectric.diy/Spark-AE), a Daisy Seed based module, and the associated [FLUX](https://clectric.diy/FLUX) firmware.
 
 Whenever possible, we use open source software to ensure that there's a low barrier to entry for new folks starting up and because it's often the best software available. [KiCad](tools/KiCad.md) is a good example.
 
