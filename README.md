@@ -1,6 +1,11 @@
 **clectric.diy** is a space for experimentation, learning, and sharing—with a growing library of notes, prototypes, & ideas—always in progress. We’re here to help you build the sounds you imagine.
 
-Our first design is a [Daisy Seed Breakout Board](https://clectric.diy/Charge-Seed/). It is a very simple pcb that includes the Daisy Seed's pinout diagram for easy reference.
+While *our version* of many of these projects are available for purchase at [store.clectric.diy](https://store.clectric.diy), our primary goal is to provide you with the information that you need to create *your version*.
+
+We have designed [Cases and "Caps"](https://clectric.diy/AE-Cases) for the [AE Modular format](formats/ae-modular/).
+
+The [Daisy Seed Breakout Board](https://clectric.diy/Charge-Seed/) is a very simple pcb that includes the Daisy Seed's pinout diagram for easy reference.
+
 
 Also, members of [our Synth DIY community](https://github.com/orgs/clectric-diy/discussions) are designing modules for the [AE Modular format](formats/ae-modular/). Including the [Shock](https://clectric.diy/Shock-AE) and [Spark](https://clectric.diy/Spark-AE), which are both Daisy Seed based modules, and the associated [FLUX](https://clectric.diy/FLUX) firmware.
 
